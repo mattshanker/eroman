@@ -1,0 +1,15 @@
+.bookcover{
+  background-size: auto;
+  height: auto%;
+  width: auto;
+}
+.bookjacket{
+  background-size: contain;
+  height: 100%;
+  width: 100%;
+  }
+.camo{
+  height:auto;
+  width: 100%;
+  background-size: contain;
+  }
